@@ -19,3 +19,8 @@
 header{
     border: 2px solid black;
 }
+
+#italic{
+    font-style: italic;
+    font-size: small;
+}
